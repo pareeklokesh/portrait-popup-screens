@@ -664,6 +664,13 @@ box-shadow: none;
 color: #fff !important;
 border: 1px solid #fff;
 }
+.banner_slide_bg {
+  background: url('../img/earnmonry_bg.jpg') no-repeat !important;
+  background-size: cover !important;
+}
+.invitaitons_content {
+  margin-bottom: 25px;
+}
 
 
 

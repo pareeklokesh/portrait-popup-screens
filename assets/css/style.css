@@ -671,6 +671,18 @@ border: 1px solid #fff;
 .invitaitons_content {
   margin-bottom: 25px;
 }
+.reward_table .friend_data thead tr th {
+  width: 33%;font-size: 14px;
+}
+.reward_table .friend_data tr td {
+  font-size: 12px;
+}
+.reward_table .friend_data tr td, .reward_table .friend_data tr th {
+  padding: 5px 8px;
+}
+.reward .addtab .nav-tabs li button {
+  padding: 6px 5px;
+}
 
 
 
@@ -679,11 +691,20 @@ border: 1px solid #fff;
   .full_screen {
   width: 100%;
 }
+.reward .addtab .nav-tabs li button {
+  font-size: 14px;
+}
 }
 
 @media screen and (max-width: 520px) {
   .get_rupess ,.all_btn.all_btn_sec, .invitaitons span {
   font-size: 12px;
+}
+.reward_table .friend_data thead tr th {
+  font-size: 12px;
+}
+.reward_table .friend_data tr td {
+  font-size: 9px;
 }
 .all_btn.all_btn_sec i {
   margin-right: 5px;

@@ -683,6 +683,9 @@ border: 1px solid #fff;
 .reward .addtab .nav-tabs li button {
   padding: 6px 5px;
 }
+.reward .nav-tabs li button {
+  white-space: nowrap;
+}
 
 
 
